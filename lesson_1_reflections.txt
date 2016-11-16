@@ -23,4 +23,6 @@ Git log will display a comment supplied by the commiter and an ID + time stamp o
 
 Using version control gives you the security of falling back on a previous version that was working fine.
 
+7. Now that you have your workspace set up, what do you want to try using Git for?
 
+version control for code
