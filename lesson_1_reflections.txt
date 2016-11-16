@@ -1,0 +1,26 @@
+LESSON ONE QUESTIONS
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewing a diff between two versions pointed out all the lines that were added/removed from one file to the other. This removed all the lines that were identicaly and helped me focus on the single lines that had differences.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Having the history of changes made to a set of code would allow you to see what changes were made from one version to the next. It would help in debugging why certain aspect of an application started working differently.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manually choosing when to create a commit gives you the most flexibility and ultimetly allows the programmer to to use their best judgement. Versionas being automatically saved run the risk of creating commits too often or two little, as well as during times that don't make sense (i.e. in the middle of a line of code that is still being written).
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is generally used for programming projects that span multiple files which tend to be tied to eachother, while Google Docs is more of a single file project type of application
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+Git log will display a comment supplied by the commiter and an ID + time stamp of the commit. git diff along with two commit IDs will display the code changes between the two IDs
+
+6. How might using version control make you more confident to make changes that could break something?
+
+Using version control gives you the security of falling back on a previous version that was working fine.
+
+
