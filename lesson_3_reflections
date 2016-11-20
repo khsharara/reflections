@@ -13,7 +13,7 @@ You would want to pull changes manually rather than having Git automatically syn
 
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-A fork creates a copy of someone elses GitHub repository and puts it in your GitHub repository.
+A fork creates a copy of someone else’s GitHub repository and puts it in your GitHub repository.
 
 A clone allows you to pull down a copy of a GitHub repository onto your own machine so you can work on it with more command.
 
@@ -24,3 +24,7 @@ I would use a fork to use existing code that someone else created without collab
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Having a copy of the last known state of the remote stored locally allows you to check what differences exist between your local branch and the 'remote' branch when you are offline.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+To collaborate without Git or GitHub I would use something like Google Drive. The navigation of drive and the familiar interfaces would make it easier to start working with right away but that is about the only benefit. It would be harder to branch with the finesse that Git allows.
