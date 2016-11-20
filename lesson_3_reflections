@@ -10,3 +10,13 @@ I can think of several reasons for why you would want to use a remote repository
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You would want to pull changes manually rather than having Git automatically sync with your remote repository so you can take your time working on projects locally. Other users might also contribute to the GitHub repo which could interfere with the intention of your new code.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork creates a copy of someone elses GitHub repository and puts it in your GitHub repository.
+
+A clone allows you to pull down a copy of a GitHub repository onto your own machine so you can work on it with more command.
+
+A branch allows you to deviate from an existing branch and and does not affect the master.
+
+I would use a fork to use existing code that someone else created without collaborating directly on their master. I would use a clone I want to collaborate with other people on a GitHub repository we are all participants in. I would use a branch to work on new features I would like to test.
