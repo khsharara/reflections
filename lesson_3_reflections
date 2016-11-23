@@ -28,3 +28,7 @@ Having a copy of the last known state of the remote stored locally allows you to
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 To collaborate without Git or GitHub I would use something like Google Drive. The navigation of drive and the familiar interfaces would make it easier to start working with right away but that is about the only benefit. It would be harder to branch with the finesse that Git allows.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I think it's always a good idea to make changes in a separate branch and then merge into master once the changes have been tested and approved. The benefit is that you can test changes without affecting master. The drawback is the working directly on master is quicker.
